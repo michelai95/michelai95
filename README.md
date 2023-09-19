@@ -1,5 +1,9 @@
 ### Hey y'all! 🤠
 
+<i>I'm a Full Stack Software Engineer who builds SaaS platforms 
+<br /> utilizing React on Rails, Typescript, Redux, and SQL.</i>
+<br />
+<br />Most of my work is in a private repo, so don't let those numbers fool you!
 <!--
 **michelai95/michelai95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
