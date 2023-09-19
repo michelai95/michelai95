@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![Michela's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelai95)](https://github.com/michelai95/github-readme-stats)
+[![Michela's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelai95&show=reviews,discussions_started,prs_merged,discussions_answered&show_icons=true&theme=tokyonight)](https://github.com/michelai95/github-readme-stats)
