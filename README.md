@@ -4,12 +4,13 @@
 <br /> utilizing React on Rails, Typescript, Redux, and SQL.</i>
 <br />
 <br />Most of my work is in a private repo, so don't let those numbers fool you!
+
+- 🔭 I’m currently working on incorporating AI into our application and fine-tuning my prompt engineering skills.
 <!--
 **michelai95/michelai95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,3 +22,6 @@ Here are some ideas to get you started:
 -->
 
 [![Michela's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelai95&show=reviews,discussions_started,prs_merged,discussions_answered&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/michelai95/github-readme-stats)
+
+
+[![Michela's top languages](https://github-readme-stats.vercel.app/api/top-langs/?michelai95)
