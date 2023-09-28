@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 
 [![Michela's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelai95&show=reviews,discussions_started,prs_merged,discussions_answered&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/michelai95/github-readme-stats)
 
-
-[![Michela's top languages](https://github-readme-stats.vercel.app/api/top-langs/?michelai95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelai95&layout=donut)](https://github.com/michelai95/github-readme-stats)
