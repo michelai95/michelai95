@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 -->
 
-[![Michela's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelai95&show=reviews,discussions_started,prs_merged,discussions_answered&show_icons=true&theme=tokyonight)](https://github.com/michelai95/github-readme-stats)
+[![Michela's GitHub stats]([https://github-readme-stats.vercel.app/api?username=michelai95](https://github-readme-stats-nine-ruddy-71.vercel.app/)&show=reviews,discussions_started,prs_merged,discussions_answered&show_icons=true&theme=tokyonight)](https://github.com/michelai95/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelai95&layout=donut)](https://github.com/michelai95/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=michelai95](https://github-readme-stats-nine-ruddy-71.vercel.app/)&layout=donut)](https://github.com/michelai95/github-readme-stats)
