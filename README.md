@@ -11,6 +11,9 @@
 <a href="https://github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelai95&layout=donut" />
 </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-three-sigma.vercel.app?user=michelai95&theme=transparent&mode=weekly" />
+</a>
 <br />
 - 🔭 I’m currently working on incorporating AI into our application and fine-tuning my prompt engineering skills.
 <!--
