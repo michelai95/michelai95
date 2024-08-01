@@ -15,7 +15,7 @@
   <img src="https://github-readme-streak-stats-three-sigma.vercel.app?user=michelai95&theme=transparent&mode=weekly" />
 </a>
 <br />
-- 🔭 I’m currently working on incorporating AI into our application and fine-tuning my prompt engineering skills.
+- 🔭 I’m currently working on my ethical hacking skills and applying that knowledge to my code to reinforce security measures.
 <!--
 **michelai95/michelai95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
